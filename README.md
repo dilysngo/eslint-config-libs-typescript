@@ -1,4 +1,4 @@
-# eslint-config-libs
+# eslint-config-libs-typescript
 **This repository is not used anymore. See the [Soupswap toolkit](https://github.com/soupswap/soupswap-toolkit) instead**
 
 Soupswap Eslint config with:
@@ -10,7 +10,7 @@ Soupswap Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev typescript/eslint-config-libs
+npx install-peerdeps --dev eslint-config-libs/typescript
 ```
 
-Add `"extends": "typescript/eslint-config-libs"` to your eslint config file.
+Add `"extends": "eslint-config-libs/typescript"` to your eslint config file.
