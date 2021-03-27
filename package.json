@@ -1,12 +1,12 @@
 {
-  "name": "eslint-config-libs/typescript",
+  "name": "eslint-config-libs-typescript",
   "version": "1.0.0",
   "description": "Eslint config for PancakeSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "git@github.com:eslint-config-libs/typescript.git",
+  "repository": "git@github.com:eslint-config-libs-typescript.git",
   "license": "MIT",
   "author": "Dilys",
   "private": false,
