@@ -10,7 +10,7 @@ Soupswap Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev eslint-config-libs
+npx install-peerdeps --dev typescript/eslint-config-libs
 ```
 
-Add `"extends": "eslint-config-libs"` to your eslint config file.
+Add `"extends": "typescript/eslint-config-libs"` to your eslint config file.
